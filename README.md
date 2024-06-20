@@ -15,3 +15,5 @@
 -> Sql database tables are located in database folder of project
 
 -> Password of RAR is My 10 digit mobile number. Hint 96*******8
+
+-> links of zip is in Link file 
