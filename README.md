@@ -1,10 +1,14 @@
 # E-librarian-3.0
 
--> Update of E-librarian project.
+-> Third update of E-librarian project.
 
-->For now supposed display is 1920 * 1080 PX
+-> Full responsive at desktop and mobile
 
--> This Project is built using HTML5,CSS,PHP,SQL.Next version expected to be responsive and use of Javascript.
+-> This project is built using HTML5,CSS,PHP,SQL,js.Next version expected to be in Laravel.
+
+-> For prevent brute force attacks, it is ready with google captcha API.
+
+-> It has a Razorpay payment getaway API for smooth money transection.
 
 -> Sql database tables are located in database folder of project
 
