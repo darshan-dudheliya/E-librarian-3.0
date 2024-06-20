@@ -8,6 +8,8 @@
 
 -> For prevent brute force attacks, it is ready with google captcha API.
 
+->This version is enable with otp mail and verify otp system.
+
 -> It has a Razorpay payment getaway API for smooth money transection.
 
 -> Sql database tables are located in database folder of project
